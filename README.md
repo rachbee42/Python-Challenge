@@ -16,7 +16,7 @@ An analysis folder that contains your text file that has the results from your a
 
 Push these changes to GitHub or GitLab.
 
-**PyBank Instructions**
+<u><b>PyBank Instructions<u><b>
 
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
@@ -34,8 +34,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
 
-Financial Analysis
-----------------------------
+<i>Financial Analysis<i>
 Total Months: 86
 Total: $22564198
 Average Change: $-8311.11
@@ -43,7 +42,7 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-<u>**PyPoll Instructions**<u>
+<u><b>PyPoll Instructions<u><b>
 
 
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
@@ -62,14 +61,14 @@ The winner of the election based on popular vote
 
 Your analysis should align with the following results:
 
-Election Results
--------------------------
+<i>Election Results<i>
+
 Total Votes: 369711
--------------------------
+
 Charles Casper Stockham: 23.049% (85213)
 Diana DeGette: 73.812% (272892)
 Raymon Anthony Doane: 3.139% (11606)
--------------------------
+
 Winner: Diana DeGette
--------------------------
+
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
