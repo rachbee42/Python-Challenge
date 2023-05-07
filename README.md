@@ -17,7 +17,7 @@ An analysis folder that contains your text file that has the results from your a
 Push these changes to GitHub or GitLab.
 
 
-<b>PyBank Instructions</b>
+<br><b>PyBank Instructions</b></br>
 
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
@@ -44,8 +44,7 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 
-
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+<br>In addition, your final script should both print the analysis to the terminal and export a text file with the results.</br>
 
 
 <br><b>PyPoll Instructions</b></br>
