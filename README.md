@@ -1,3 +1,8 @@
+# This is an incomplete submission as struggled.  Will resubmit to emsure pass (just wanted to submit something so that not marked as a non-submission).
+
+# Code only entered for the PyBank section (main.py) which is also incomplete and with errors.
+ 
+
 # python-challenge
 
 Create a new repository for this project called python-challenge.
