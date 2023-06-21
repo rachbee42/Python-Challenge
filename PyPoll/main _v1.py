@@ -61,7 +61,8 @@ with open(csv_import) as csvfile:
             'Raymon Anthony Doane': {pc_raymon}
             }
         
-        winner = max(pc_dict.items(), key=operator.itemgetter(1))[0]
+        #winner = max(pc_dict.items(), key=operator.itemgetter(1))[0]
+        winner = max(pc_dict.values())
 
 # Display analysis
 output=f"""
@@ -73,7 +74,7 @@ Charles Casper Stockham: {pc_charles:.3f}% ({count_charles:,})
 Diana Degette: {pc_diana:.3f}% ({count_diana:,})
 Raymon Anthony Doane: {pc_raymon:.3f}% ({count_raymon:,})
 --------------------
-Winner: {pc_dict}
+Winner: {winner}
 --------------------
 """
 print(output)
