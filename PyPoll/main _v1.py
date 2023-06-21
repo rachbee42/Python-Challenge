@@ -56,14 +56,13 @@ with open(csv_import) as csvfile:
 
         # The winner of the election based on popular vote
         pc_dict = {
-            'Charles Casper Stockham':{pc_charles},
-            'Diana DeGette':{pc_diana},
-            'Raymon Anthony Doane': {pc_raymon}
+            'Charles Casper Stockham':pc_charles,
+            'Diana DeGette':pc_diana,
+            'Raymon Anthony Doane': pc_raymon
             }
         
-        #winner = max(pc_dict.items(), key=operator.itemgetter(1))[0]
-        winner = max(pc_dict.values())
-
+        winner = max(pc_dict.items(), key=operator.itemgetter(1))[0]
+        
 # Display analysis
 output=f"""
 Election Results

@@ -7,5 +7,5 @@ Charles Casper Stockham: 23.049% (85,213)
 Diana Degette: 73.812% (272,892)
 Raymon Anthony Doane: 3.139% (11,606)
 --------------------
-Winner: {23.04854332167558}
+Winner: Diana DeGette
 --------------------
